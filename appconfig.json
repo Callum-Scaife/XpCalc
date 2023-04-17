@@ -1,8 +1,8 @@
 {
 	"appName": "XpCalculator",
 	"description": "This app will show you remaining actions to target level",
-	"appUrl": "https://callum-scaife.github.io/XpCalc/",
-	"configUrl": "https://callum-scaife.github.io/XpCalc/appconfig.json",
+	"appUrl": "https://callum-scaife.github.io/",
+	"configUrl": "https://callum-scaife.github.io/appconfig.json",
 	"iconUrl": "Xp_Calculator.ico",
 	"defaultWidth": 200,
 	"defaultHeight": 90,
